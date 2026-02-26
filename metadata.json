@@ -1,0 +1,8 @@
+{
+  "name": "Chat Messenger Ferplay ",
+  "description": "A modern messaging application with an integrated AI chatbot powered by Gemini 3.1 Pro.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
